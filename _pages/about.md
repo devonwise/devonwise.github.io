@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome To Devon Wise's personal page!! Please click the links at the top to navigate to his CV and other files.
+Welcome To Devon Wise's personal page!! Please click the links at the top to navigate to his CV. This website is a working progress.
