@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Devon Wise"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Engineering Student at Virginia Tech"
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "devonwise@vt.edu" 
 
